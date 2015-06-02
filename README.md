@@ -63,9 +63,13 @@ How to run this within Android Studio:
 cordova phonegap
 
 $ cordova create hello com.example.hello HelloWorld
+
 $ cd hello
+
 $ cordova platform add android
+
 $ cordova build
+
 $ cordova emulate android   /* This pushes the app to the home screen - Emulator and launches it: */
 
 In Android Studio
