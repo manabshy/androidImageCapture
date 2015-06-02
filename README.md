@@ -1,7 +1,25 @@
 # androidAppWo
 Android Web App constructed using HTML5,CSS3,AngularJS,JavaScript and packaged using PhoneGap and Cordova for android.
 
-For more information - please check the link below -
+How to use - 
+
+1.Clone the repo
+  git clone :
+
+2.Install cordova - on OS X and Linux:
+  sudo npm install -g cordova
+
+3. Switch to the project directory - immediate "www" folder in the project tree
+
+4. cordova build android
+
+5. cordova emulate android
+
+Note: For steps 4 - Configure your emulator either in eclipse/android Studio
+
+
+
+/****For more information - please check the link below ********/
 
 You need Android Studio to deploy it in the Emulator or run it on your Android device
 
