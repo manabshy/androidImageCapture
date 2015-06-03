@@ -15,7 +15,7 @@ How to use -
 
 5. cordova emulate android
 
-Note: For steps 4 - Configure your emulator either in eclipse/android Studio
+Note: For steps 4 and 5 - Configure your emulator either in eclipse/android Studio
 
 
 
